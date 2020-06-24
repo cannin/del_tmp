@@ -11,3 +11,5 @@ Two suggestions arise for the PAMP pathway (http://web.newteditor.org/?URL=https
 2. There is evidence that IRF3 and IRF7 can heterodimerize (not show on the diagram; more info: https://www.cell.com/immunity/pdf/S1074-7613(06)00394-3.pdf) to induce IFN genes. 
 
 I don't have any systematic output at this point, but feedback on the approach would be welcomed. 
+
+![image](Screen Shot 2020-06-24 at 11.33.41 AM.png)
