@@ -1,4 +1,23 @@
 ```
+<map ...>
+    ...
+    <glyph id="glyph1" class="entity">
+        <label text="CaMKII"/>
+        <bbox x="10.0" y="20.0" w="140.0" h="50.0"/>
+        <glyph id="glyph1a" class="state variable">
+            <state variable="T286" value="P"/>
+            <bbox x="13.5" y="11.0" w="63.0" h="18.0"/>
+        </glyph>
+        <glyph id="glyph1b" class="state variable">
+            <state variable="T306"/>
+            <bbox x="93.5" y="11.0" w="43.0" h="18.0"/>
+        </glyph>
+    </glyph>
+    ...
+</map>
+```
+
+```
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <sbgn xmlns="http://sbgn.org/libsbgn/0.3">
     <map id="map1" language="activity flow">
