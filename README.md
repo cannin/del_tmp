@@ -12,4 +12,4 @@ Two suggestions arise for the PAMP pathway (http://web.newteditor.org/?URL=https
 
 I don't have any systematic output at this point, but feedback on the approach would be welcomed. 
 
-![image](Screen Shot 2020-06-24 at 11.33.41 AM.png)
+![indra.png](indra.png)
